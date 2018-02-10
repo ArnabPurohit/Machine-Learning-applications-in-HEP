@@ -8,4 +8,5 @@ In the Hands-on-sessions directory the codes discussed during Hand on sessions a
    1. Classification.py
    2. MNIST_ANN.py
    3. MNIST_CNN_keras.py
+
 Day4.ipynb is an example of Classification problem
